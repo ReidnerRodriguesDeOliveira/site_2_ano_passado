@@ -1,2 +1,2 @@
 # site_2_ano_passado
-Refizemos o primeiro site, só que usando o bootstrap agora, infelizmente alguns videos não foram capazes de ser enviados e não pude enviar como zip, pois é muito grande.
+Refizemos o primeiro site, só que usando o bootstrap agora, infelizmente alguns videos não foram capazes de ser enviados e não pude enviar como zip, pois é muito grande, o site tem as mesmas funções do site_1, mas agora com o bootstrap, que permite uma melhor organização e permite que o site seja responsivel, fazendo com que o site seja funcional até em formato de smartphones.
